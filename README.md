@@ -10,6 +10,8 @@
 
 ## [Contributing Guidlines](https://github.com/MukulKolpe/PlaneShooter-Android-App/blob/master/CONTRIBUTING.md)
 
+## [MIT License](https://github.com/MukulKolpe/PlaneShooter-Android-App/blob/master/LICENSE)
+
 
 
 
