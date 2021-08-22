@@ -8,6 +8,8 @@
 
 ## [Code of Conduct](https://github.com/MukulKolpe/PlaneShooter-Android-App/blob/master/CODE_OF_CONDUCT.md)
 
+## [Contributing Guidlines](https://github.com/MukulKolpe/PlaneShooter-Android-App/blob/master/CONTRIBUTING.md)
+
 
 
 
